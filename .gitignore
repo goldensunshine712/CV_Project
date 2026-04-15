@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Large model files
+*.pth
+*.pt
+
+# Dataset
+Dataset/
+
+# Python cache
+__pycache__/
+*.pyc
